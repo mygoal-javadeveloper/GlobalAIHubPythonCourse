@@ -9,4 +9,4 @@
 # Homework  
 |Day|Date|Link|
 |:----|:----|:----|
-|Day2|02/02/2021|https://github.com/mygoal-javadeveloper/GlobalAIHubPythonCourse/blob/main/Homeworks/Day2/Day2.ipynb|
+|Day2|02/02/2021 (revised on 04/02/2021)|https://github.com/mygoal-javadeveloper/GlobalAIHubPythonCourse/blob/main/Homeworks/Day2/Day2.ipynb|
